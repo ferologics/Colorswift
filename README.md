@@ -8,6 +8,9 @@ I use it with font named "Source Code Pro" from Adobe that makes it look even be
 
 You can get the font here: https://github.com/adobe-fonts/source-code-pro
 
+# INSTALL
+==========
+
 ##### To add the theme to your own Xcode use these commands to show all files in terminal 
   
   $ defaults write com.apple.finder AppleShowAllFiles TRUE
