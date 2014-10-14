@@ -10,3 +10,5 @@ You can get the font here: https://github.com/adobe-fonts/source-code-pro
 
 It has eye saving colors and perfect contrast, which is great for night and day programming.
 
+(open the image in new tab for better resolution)
+![alt tag](https://raw.githubusercontent.com/ferologics/Colorswift/master/colorswiftDemo.png)
