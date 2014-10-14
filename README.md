@@ -14,7 +14,7 @@ You can get the font here: https://github.com/adobe-fonts/source-code-pro
   
   $ killall Finder
   
-##### and navigate to directory: ~"your disk"/Users/"your username"/Library/Developer/Xcode/UserData/FontAndColorThemes
+##### and copy the theme to directory: ~"your disk"/Users/"your username"/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 It has eye saving colors and perfect contrast, which is great for night and day programming.
 
